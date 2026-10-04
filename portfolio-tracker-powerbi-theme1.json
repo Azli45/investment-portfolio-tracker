@@ -1,0 +1,82 @@
+{
+  "name": "Monochrome Ledger",
+  "dataColors": [
+    "#000000",
+    "#2E2E2E",
+    "#575757",
+    "#808080",
+    "#A8A8A8",
+    "#CFCFCF",
+    "#1A1A1A",
+    "#444444"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#000000",
+  "good": "#1A1A1A",
+  "neutral": "#808080",
+  "bad": "#BDBDBD",
+  "maximum": "#000000",
+  "center": "#808080",
+  "minimum": "#E5E5E5",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#000000"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Georgia",
+      "color": "#000000"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Georgia",
+      "color": "#000000"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#525252"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Georgia",
+            "fontSize": 14,
+            "italic": true,
+            "fontColor": { "solid": { "color": "#000000" } }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FAFAFA" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D4D4D4" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#F0F0F0" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}
