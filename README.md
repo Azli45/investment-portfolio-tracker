@@ -6,6 +6,8 @@ An interactive multi-investor portfolio dashboard built in **Power BI**, using a
 
 ---
 
+<img width="1203" height="681" alt="image" src="https://github.com/user-attachments/assets/3deb5a12-7d05-42f9-8651-eab83de60adf" />
+
 ## Business Questions Answered
 
 A portfolio analyst asks the same few questions every day:
